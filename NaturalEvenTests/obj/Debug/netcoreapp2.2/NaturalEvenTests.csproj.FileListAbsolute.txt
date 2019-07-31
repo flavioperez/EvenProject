@@ -1,0 +1,15 @@
+C:\ips\Source\Repos\EvenSteven\EvenSteven\NaturalEvenTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\ips\Source\Repos\EvenSteven\EvenSteven\NaturalEvenTests\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\ips\Source\Repos\EvenSteven\EvenSteven\NaturalEvenTests\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\ips\Source\Repos\EvenSteven\EvenSteven\NaturalEvenTests\bin\Debug\netcoreapp2.2\NaturalEvenTests.deps.json
+C:\ips\Source\Repos\EvenSteven\EvenSteven\NaturalEvenTests\bin\Debug\netcoreapp2.2\NaturalEvenTests.runtimeconfig.json
+C:\ips\Source\Repos\EvenSteven\EvenSteven\NaturalEvenTests\bin\Debug\netcoreapp2.2\NaturalEvenTests.runtimeconfig.dev.json
+C:\ips\Source\Repos\EvenSteven\EvenSteven\NaturalEvenTests\bin\Debug\netcoreapp2.2\NaturalEvenTests.dll
+C:\ips\Source\Repos\EvenSteven\EvenSteven\NaturalEvenTests\obj\Debug\netcoreapp2.2\NaturalEvenTests.csprojAssemblyReference.cache
+C:\ips\Source\Repos\EvenSteven\EvenSteven\NaturalEvenTests\obj\Debug\netcoreapp2.2\NaturalEvenTests.csproj.CoreCompileInputs.cache
+C:\ips\Source\Repos\EvenSteven\EvenSteven\NaturalEvenTests\obj\Debug\netcoreapp2.2\NaturalEvenTests.AssemblyInfoInputs.cache
+C:\ips\Source\Repos\EvenSteven\EvenSteven\NaturalEvenTests\obj\Debug\netcoreapp2.2\NaturalEvenTests.AssemblyInfo.cs
+C:\ips\Source\Repos\EvenSteven\EvenSteven\NaturalEvenTests\bin\Debug\netcoreapp2.2\NaturalEvenTests.pdb
+C:\ips\Source\Repos\EvenSteven\EvenSteven\NaturalEvenTests\obj\Debug\netcoreapp2.2\NaturalEvenTests.dll
+C:\ips\Source\Repos\EvenSteven\EvenSteven\NaturalEvenTests\obj\Debug\netcoreapp2.2\NaturalEvenTests.pdb
+C:\ips\Source\Repos\EvenSteven\EvenSteven\NaturalEvenTests\bin\Debug\netcoreapp2.2\jsconfig.json
