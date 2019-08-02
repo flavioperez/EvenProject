@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29123.88
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NaturalEven", "NaturalEven\NaturalEven.csproj", "{218BF268-7A92-4040-A48A-B9F561096155}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NaturalEven", "NaturalEven\NaturalEven.csproj", "{218BF268-7A92-4040-A48A-B9F561096155}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NaturalEvenTests", "NaturalEvenTests\NaturalEvenTests.csproj", "{635A1073-399B-4254-ACFA-3C6B023E2589}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NaturalEventMsTests", "NaturalEventMsTests\NaturalEventMsTests.csproj", "{99B6A0C5-12DD-40E7-8B1C-25045303BFD7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{218BF268-7A92-4040-A48A-B9F561096155}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{218BF268-7A92-4040-A48A-B9F561096155}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{218BF268-7A92-4040-A48A-B9F561096155}.Release|Any CPU.Build.0 = Release|Any CPU
-		{635A1073-399B-4254-ACFA-3C6B023E2589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{635A1073-399B-4254-ACFA-3C6B023E2589}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{635A1073-399B-4254-ACFA-3C6B023E2589}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{635A1073-399B-4254-ACFA-3C6B023E2589}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99B6A0C5-12DD-40E7-8B1C-25045303BFD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99B6A0C5-12DD-40E7-8B1C-25045303BFD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99B6A0C5-12DD-40E7-8B1C-25045303BFD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99B6A0C5-12DD-40E7-8B1C-25045303BFD7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
