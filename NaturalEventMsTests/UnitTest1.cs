@@ -64,30 +64,6 @@ namespace NaturalEventMsTests
             Assert.AreEqual("Is Even: True", response.Value);
             Assert.AreEqual((int)HttpStatusCode.OK, response.StatusCode);
         }
-
-        //public async Task Request_Without_Query()
-        //{
-        //    var query = new Dictionary<String, StringValues>();
-        //    var body = "{\"name\":\"yamada\"}";
-
-        //    //            var result = await HttpTrigger.RunAsync(HttpRequestSetup(query, body), log);
-        //    var logger = Mock.Of<ILogger>(); //using Moq for example
-        //    var result = await Function1.Run(req: HttpRequestSetup(query, body), log: logger);
-        //    var resultObject = (OkObjectResult)result;
-        //    Assert.AreEqual("Hello, yamada", resultObject.Value);
-        //}
-
-        //[TestMethod]
-        //public async Task Request_Without_Query_And_Body()
-        //{
-        //    var query = new Dictionary<String, StringValues>();
-        //    var body = "";
-        //    //var result = await HttpTrigger.RunAsync(HttpRequestSetup(query, body), log);
-        //    var logger = Mock.Of<ILogger>(); //using Moq for example
-        //    var result = await Function1.Run(req: HttpRequestSetup(query, body), log: logger);
-        //    var resultObject = (BadRequestObjectResult)result;
-        //    Assert.AreEqual("Please pass a name on the query string or in the request body", resultObject.Value);
-        //}
     }
 }
 

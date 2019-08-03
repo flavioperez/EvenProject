@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ips\\Source\\Repos\\EvenSteven\\EvenSteven\\NaturalEventMsTests\\NaturalEventMsTests.csproj": {}
+    "C:\\ips\\Source\\Repos\\EvenProject\\NaturalEventMsTests\\NaturalEventMsTests.csproj": {}
   },
   "projects": {
-    "C:\\ips\\Source\\Repos\\EvenSteven\\EvenSteven\\NaturalEventMsTests\\NaturalEventMsTests.csproj": {
+    "C:\\ips\\Source\\Repos\\EvenProject\\NaturalEventMsTests\\NaturalEventMsTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ips\\Source\\Repos\\EvenSteven\\EvenSteven\\NaturalEventMsTests\\NaturalEventMsTests.csproj",
+        "projectUniqueName": "C:\\ips\\Source\\Repos\\EvenProject\\NaturalEventMsTests\\NaturalEventMsTests.csproj",
         "projectName": "NaturalEventMsTests",
-        "projectPath": "C:\\ips\\Source\\Repos\\EvenSteven\\EvenSteven\\NaturalEventMsTests\\NaturalEventMsTests.csproj",
+        "projectPath": "C:\\ips\\Source\\Repos\\EvenProject\\NaturalEventMsTests\\NaturalEventMsTests.csproj",
         "packagesPath": "C:\\Users\\flaviop\\.nuget\\packages\\",
-        "outputPath": "C:\\ips\\Source\\Repos\\EvenSteven\\EvenSteven\\NaturalEventMsTests\\obj\\",
+        "outputPath": "C:\\ips\\Source\\Repos\\EvenProject\\NaturalEventMsTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,8 +31,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\ips\\Source\\Repos\\EvenSteven\\EvenSteven\\NaturalEven\\NaturalEven.csproj": {
-                "projectPath": "C:\\ips\\Source\\Repos\\EvenSteven\\EvenSteven\\NaturalEven\\NaturalEven.csproj"
+              "C:\\ips\\Source\\Repos\\EvenProject\\NaturalEven\\NaturalEven.csproj": {
+                "projectPath": "C:\\ips\\Source\\Repos\\EvenProject\\NaturalEven\\NaturalEven.csproj"
               }
             }
           }
@@ -101,14 +101,14 @@
         }
       }
     },
-    "C:\\ips\\Source\\Repos\\EvenSteven\\EvenSteven\\NaturalEven\\NaturalEven.csproj": {
+    "C:\\ips\\Source\\Repos\\EvenProject\\NaturalEven\\NaturalEven.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ips\\Source\\Repos\\EvenSteven\\EvenSteven\\NaturalEven\\NaturalEven.csproj",
+        "projectUniqueName": "C:\\ips\\Source\\Repos\\EvenProject\\NaturalEven\\NaturalEven.csproj",
         "projectName": "NaturalEven",
-        "projectPath": "C:\\ips\\Source\\Repos\\EvenSteven\\EvenSteven\\NaturalEven\\NaturalEven.csproj",
+        "projectPath": "C:\\ips\\Source\\Repos\\EvenProject\\NaturalEven\\NaturalEven.csproj",
         "packagesPath": "C:\\Users\\flaviop\\.nuget\\packages\\",
-        "outputPath": "C:\\ips\\Source\\Repos\\EvenSteven\\EvenSteven\\NaturalEven\\obj\\",
+        "outputPath": "C:\\ips\\Source\\Repos\\EvenProject\\NaturalEven\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
